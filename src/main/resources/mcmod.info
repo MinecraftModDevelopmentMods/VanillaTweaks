@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vanillatweaks",
+  "name": "Vanilla Tweaks",
+  "description": "Vanilla Tweaks",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jriwanek"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
