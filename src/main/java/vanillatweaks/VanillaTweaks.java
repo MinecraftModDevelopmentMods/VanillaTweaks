@@ -13,7 +13,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 		modid = VanillaTweaks.MODID,
 		name = VanillaTweaks.NAME,
 		version = VanillaTweaks.VERSION,
-		dependencies = "required-after:Forge@[12.16.0.1887,)",
+		dependencies = "required-after:Forge@[12.16.1.1887,)",
 		acceptedMinecraftVersions = "1.9",
 		//certificateFingerprint = "",
 		updateJSON = "https://raw.githubusercontent.com/jriwanek/VanillaTweaks/master/update.json")
